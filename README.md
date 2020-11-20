@@ -8,3 +8,10 @@ Some text
 
 #Testing feature branching
 
+# Testing from Quick Test Branch
+
+# Hello there how are you doing
+
+# Have fun
+
+# Hello there how are you doing
